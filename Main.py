@@ -1,3 +1,6 @@
+# pip install pygame
+# pip install textblob
+
 from tkinter import *
 from pygame import mixer
 from textblob import TextBlob
